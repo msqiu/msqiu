@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Zhouyan Qiu 👋
 
 #### 📑 EDUCATION
 
@@ -10,15 +10,15 @@ B.Sc. in Remote Sensing at Wuhan University
 
 #### 💻 Skill
 
-* Python
-* Matlab
-* OpenCV
-* sklearn
-* PyTorch
+Python  
+Matlab  
+OpenCV  
+sklearn  
+PyTorch  
   
-* Arcgis
-* ENVI 
-* Labview 
-* Vegas Pro
-* Adobe Photoshop
-* Adobe Illustrator
+Arcgis  
+ENVI  
+Labview  
+Vegas Pro  
+Adobe Photoshop  
+Adobe Illustrator  
