@@ -2,6 +2,9 @@
 
 #### 📑 EDUCATION
 
+📅 Sep. 2020 - 
+Early Stage Researcher, Ingenieria Insitu
+
 📅 Oct. 2017 – Feb. 2020  
 M.Sc. in Geomatics Engineering at University of Stuttgart  
 
