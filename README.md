@@ -19,15 +19,10 @@ B.Sc. in Remote Sensing at Wuhan University
 
 #### 💻 Skill
 
-Python  
-Matlab  
-OpenCV  
-sklearn  
-PyTorch  
-  
-Arcgis  
-ENVI  
-Labview  
-Vegas Pro  
-Adobe Photoshop  
-Adobe Illustrator  
+##### Programming
+
+Python, Matlab, C++
+
+##### Software  
+
+Arcgis, ENVI, Labview, Cloudcompare, Vegas Pro, Adobe Photoshop, Adobe Illustrator  
