@@ -1,28 +1,26 @@
 ### Hi, my name is Zhouyan Qiu 👋
 
-#### 🙋Short description
-I am now a doctoral student at the University of Vigo. Getting my Master's degree in Geomatics Engineering at the University of Stuttgart, Germany, I Have professional knowledge of Remote Sensing. My Master thesis focused on geometry-based rail track detection and blocking scenario identification using deep learning. I received my bachelor's degree in Remote sensing from Wuhan University in Wuhan, China.
+**Postdoctoral Researcher | Remote Sensing | 3D Sensors**
 
-As an Early Stage Researcher in the 'MENELAOS-NT' project, I am now working in the field of Mobile mapping applications of Compressive Sensing techniques in collaboration with Ingeniería Insitu in Vigo. My research interests include Remote Sensing, Point clouds, Compressed Sensing, and 2D/3D Sensors for High Precision Cartography and Applications.
+---
 
-#### 📑 EDUCATION
+## About Me & Research Interests
 
-📅 Sep. 2020 -   
-Early Stage Researcher, Ingenieria Insitu  
-PhD Student, School of Mines, Univerisity of Vigo
+I am currently a postdoctoral researcher at the University of Vigo, focusing on remote sensing, point clouds, compressive sensing, and 2D/3D sensors for high-precision mapping and applications. I completed a joint PhD program at the University of Vigo and the University of Salamanca, and I obtained my Master's degree in Geomatics Engineering from the University of Stuttgart, Germany.
 
-📅 Oct. 2017 – Feb. 2020  
-M.Sc. in Geomatics Engineering at University of Stuttgart  
+### Research Interests
+- Remote Sensing and Point Clouds Analysis
+- Compressive Sensing Techniques
+- 2D/3D Sensor Fusion for High-Precision Mapping
+- Applications of Mobile Mapping Systems
 
-📅 Sep. 2012 - Jul. 2016  
-B.Sc. in Remote Sensing at Wuhan University 
+---
 
-#### 💻 Skill
+## Education
 
-##### Programming
-
-Python, Matlab, C++
-
-##### Software  
-
-Arcgis, ENVI, Labview, Cloudcompare, Vegas Pro, Adobe Photoshop, Adobe Illustrator  
+- **2024.03–Present**: Postdoctoral Researcher, University of Vigo
+- **2020.11–2024.02**: Joint PhD, University of Vigo & University of Salamanca
+- **2022.01–2022.04**: Research stay at CiTIUS, University of Santiago de Compostela
+- **2021.09–2021.12**: Research stay at pmdtechnologies, Germany
+- **2017–2020**: Master in Geomatics Engineering, University of Stuttgart, Germany
+- **2012–2016**: Bachelor in Remote Sensing Science and Technology, Wuhan University
