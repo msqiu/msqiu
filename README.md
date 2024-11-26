@@ -2,8 +2,6 @@
 
 **Postdoctoral Researcher | Remote Sensing | 3D Sensors**
 
----
-
 ## About Me & Research Interests
 
 I am currently a postdoctoral researcher at the University of Vigo, focusing on remote sensing, point clouds, compressive sensing, and 2D/3D sensors for high-precision mapping and applications. I completed a joint PhD program at the University of Vigo and the University of Salamanca, and I obtained my Master's degree in Geomatics Engineering from the University of Stuttgart, Germany.
