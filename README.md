@@ -12,8 +12,6 @@ I am currently a postdoctoral researcher at the University of Vigo, focusing on 
 - 2D/3D Sensor Fusion for High-Precision Mapping
 - Applications of Mobile Mapping Systems
 
----
-
 ## Education
 
 - **2024.03–Present**: Postdoctoral Researcher, University of Vigo
